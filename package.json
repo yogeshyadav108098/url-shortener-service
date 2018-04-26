@@ -1,0 +1,30 @@
+{
+    "name": "url-shortener-service",
+    "version": "1.0.0",
+    "description": "URL Shortener service",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yogeshyadav108098/url-shortener-service.git"
+    },
+    "author": "Yogesh Yadav",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yogeshyadav108098/url-shortener-service/issues"
+    },
+    "homepage": "https://github.com/yogeshyadav108098/url-shortener-service#readme",
+    "dependencies": {
+        "eslint": "^4.19.1",
+        "eslint-config-google": "^0.9.1",
+        "express": "^4.16.3",
+        "lodash": "^4.17.10",
+        "morgan": "^1.9.0",
+        "rc": "^1.2.6",
+        "sql": "^0.78.0",
+        "uuid-logger": "^1.0.4",
+        "yargs": "^11.0.0"
+    }
+}
